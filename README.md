@@ -29,7 +29,7 @@ Each part handles a specific responsibility to make the program easy to maintain
 
 Screenshots
 -----------
-(Add screenshots of your app here)
+
 • Main window with table
 • Example of adding or editing a record
 
