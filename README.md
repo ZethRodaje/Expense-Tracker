@@ -40,7 +40,7 @@ Screenshots
 -----------
 
 • Main window with table
-
+![main window.png](https://github.com/ZethRodaje/images/blob/main/main%20window.png)
 
 • Example of adding or editing a record
 
