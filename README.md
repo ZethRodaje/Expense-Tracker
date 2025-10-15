@@ -25,9 +25,13 @@ Features
 Code Design and Structure
 -------------------------
 • main.py – main entry point of the program
+
 • core/ – contains the database connection and stylesheet
-• features/expenses/ – includes models, repository, service, and view files
+
+• features/expenses – includes models, repository, service, and view files
+
 • shell/ – contains the main window for the interface
+
 
 The code is organized into separate modules for clarity, following a simple MVC-like structure.
 Each part handles a specific responsibility to make the program easy to maintain.
