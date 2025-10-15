@@ -43,9 +43,7 @@ Screenshots
 ![main window.png](https://github.com/ZethRodaje/images/blob/main/main%20window.png)
 
 • Example of adding or editing a record
-
-
-
+![add1.png](https://github.com/ZethRodaje/images/blob/f5022412971defe0bac661dfb98d599a6d6cc1b7/add1.png)
 How to Run the Program
 ----------------------
 1. Make sure Python 3.9+ is installed.
