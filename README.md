@@ -11,10 +11,15 @@ The system was developed in Python using PyQt6 for the GUI and SQLite for the da
 Features
 --------
 • Add, edit, and delete expense records (CRUD)
+
 • View all transactions in a sortable table
+
 • Auto-load data on startup
+
 • Double-click a record to edit
+
 • Optional styles.qss for custom design
+
 • SQLite database storage
 
 Code Design and Structure
