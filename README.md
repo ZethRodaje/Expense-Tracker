@@ -40,7 +40,11 @@ Screenshots
 -----------
 
 • Main window with table
+
+
 • Example of adding or editing a record
+
+
 
 How to Run the Program
 ----------------------
