@@ -43,7 +43,9 @@ Screenshots
 ![mainwindow.png](https://github.com/ZethRodaje/images/blob/f5022412971defe0bac661dfb98d599a6d6cc1b7/main%20window.png)
 
 • Example of adding or editing a record
+1.
 ![add1.png](https://github.com/ZethRodaje/images/blob/f5022412971defe0bac661dfb98d599a6d6cc1b7/add1.png)
+2.
 ![add2.png](https://github.com/ZethRodaje/images/blob/f5022412971defe0bac661dfb98d599a6d6cc1b7/add2.png)
 
 How to Run the Program
